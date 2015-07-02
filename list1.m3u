@@ -6,9 +6,11 @@ http://movilstream.digitalproserver.com/ucvtv/_definst_/ucvtv.smil/chunklist-b12
 #EXTINF:-1,TVN
 http://edge-11-mvstr.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
 #EXTINF:-1,MEGA
-http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
+http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
+
 #EXTINF:-1,CHV
-http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
+
 #EXTINF:-1,Canal 13
 http://cluster.13movil.ztreaming.com/13tv2/stream1grpz13t29102012.sdp/playlist.m3u8
 #EXTINF:-1,13C
@@ -48,6 +50,8 @@ http://92.50.181.6/tv/1282/index.m3u8
 http://92.50.181.6/tv/1281/index.m3u8
 #EXTINF:-1,DANCE TV
 http://87.239.31.232/hls/230.3.4.169.sd.stream.m3u8
+#EXTINF:-1,Hip Hop Channel
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_AONE/variant.m3u8?version=2
 #EXTINF:-1,Vevo1 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
 #EXTINF:-1,Vevo2 HD
