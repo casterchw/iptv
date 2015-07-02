@@ -1,7 +1,7 @@
 # iptv
 Lista para IPTV abierto y colaborativo
 
-Repositorio de listas de canales abierto, colaborativo y buena onda creado en el thread [Smart iptv lg webos](http://www.chw.net/foro/poseedores-tv-led-smart-3d/1119064-smart-iptv-lg-webos-54.html) del foro CHW.net por los propios usuarios.
+Repositorio de listas de canales abierto, colaborativo y buena onda creado en el thread [Smart iptv lg webos](http://www.chw.net/foro/poseedores-tv-led-smart-3d/1119064-smart-iptv-lg-webos-55.html) del foro CHW.net por los propios usuarios.
 
 
 ## Listados actuales (se actualizan automáticamente)
